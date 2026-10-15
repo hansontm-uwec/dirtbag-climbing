@@ -1,0 +1,422 @@
+nav{
+    background-color: #0e294a;
+    height: 8rem;
+    text-align: center;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.nav{
+    color: white; 
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    flex: 50%;
+}
+.logo{
+    width:10rem;
+    
+}
+a{
+    color: white; 
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+    font-size: 1.2rem;
+}
+a:hover{
+    text-decoration: underline;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-size: 1.1rem;
+    line-height: 26px;
+}
+footer{
+    background-color: #0e294a;
+    height: 4rem;
+    text-align: center;
+    padding-top: 2rem;
+}
+.investors{
+    margin: 2rem 5rem;
+}
+body{
+    margin: 0;
+    position: relative;
+}
+h2{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: .2rem;
+    font-size: 30px;
+}
+.social-photo{
+    width: 10%;
+    height: 10%;
+    margin: auto;
+    padding: 1rem;
+}
+h1{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+hr{
+    display: block;
+    margin: 0 auto;
+}
+.careers{
+    margin: 2rem 5rem;
+}
+.contact{
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: .2rem;
+    font-size: 30px;
+}
+.investor-button{
+    background-color: #0e294a;
+    padding: .5rem 2rem;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    font-size: 16px;
+    margin: auto;
+    display: block;
+    border-radius: 4px;
+    border: none;
+}
+.footer-img{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: .8rem;
+}
+footer a{
+    margin-top: 2rem;
+}
+.investor-img{
+    width: 100%;
+}
+.cam{
+    margin: 1rem 4rem;
+}
+.cam-intro{
+    text-align: center;
+}
+.cam-button{
+    background-color: #0e294a;
+    padding: .5rem 2rem;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    font-size: 16px;
+    margin: auto;
+    display: block;
+    border-radius: 4px;
+    border: none;
+    margin-bottom: 2rem;
+}
+.tommy{
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+}
+.honold{
+    width: 100%;
+}
+.about-img{
+    width: 100%;
+}
+.intro-button{
+    padding: .5rem 1.5rem;
+    text-align: center;
+    background-color: #113356;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.intro{
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+.about{
+    margin-left: 4rem;
+    margin-right: 4rem;
+    margin-bottom: 2.5rem;
+}
+h3{
+    color: #0e294a;
+    font-size: 1.5rem;
+    font-family: 'Roboto Slab', serif;
+}
+.about-color{
+    background-color: #291528;
+    height: 10rem;
+    width: 100%;
+}
+h4{
+    color: white;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+    padding-top: 1rem;
+}
+.color{
+    color: white;
+    margin: 0;
+    padding-top: .8rem;
+}
+.our-team{
+    display: flex;
+}
+.sub-team{
+    flex: 50%;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 2rem;
+}
+img{
+    width: 100%;
+}
+h5{
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.2rem;
+    color: #291528;
+    text-align: center;
+}
+h6{
+    font-family: 'Roboto Slab', serif;
+    font-size: 1rem;
+}
+.subscribe-button{
+    background-color: #0e294a;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    border: none;
+    border-radius: 2px;
+    padding: .6rem 1rem;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.form-button{
+    background-color: #0e294a;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    border-radius: 2px; 
+    padding: .3rem 1rem;
+}
+label{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+}
+.contact-sub{
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+.contact{
+    font-size: 2.5rem;
+    text-align: center;
+}
+.line{
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+label{
+    display: block;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+}
+form{
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+.intro-sub{
+    margin: 0 auto;
+    display: block;
+}
+.img-home{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+input[type=text]{
+    border: #0e294a 5px;
+    font-family: 'Roboto', sans-serif;
+}
+input[type=submit]{
+    background-color: #0e294a;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    display: block;
+    padding: .3rem 1rem;
+    color: white;
+    border: none;
+    margin-top: .5rem;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 1rem;
+}
+input[type=reset]{
+    background-color: #0e294a;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    display: block;
+    padding: .3rem 1rem;
+    color: white;
+    border: none;
+    margin-top: .5rem;
+    text-align: center;
+    margin: 0 auto;
+}
+.home-sub{
+    position: relative;
+}
+.sub-sub{
+    margin-bottom: 2rem;
+}
+h2{
+    font-family: 'Roboto Slab', serif;
+}
+.contact-form{
+    text-align: center;
+}
+input textarea{
+    width: 100%;
+}
+@media (max-width: 650px){
+    .logo{
+        left: -31rem;
+    }
+    .nav{
+        font-size: .8rem;
+        margin-right: .3rem;
+        margin-left: .3rem;
+    }
+}
+@media (min-width: 800px){
+    .intro-sub{
+        top: 22rem;
+        right: 3rem;
+    }
+}
+@media (min-width: 900px){
+    .intro-sub{
+        top: 22rem;
+        right: 6rem;
+    }
+}
+@media (min-width: 1000px){
+    .investors{
+        margin: 3rem 6rem;
+        line-height: 29px;
+    }
+    .sub-team{
+        flex: 50%;
+        margin-left: 4rem;
+        margin-right: 4rem;
+        margin-top: 2rem;
+    }
+    .careers{
+        margin: 3rem 6rem;
+        line-height: 29px;
+    }
+    footer a{
+        padding-left: 6rem;
+        padding-right: 6rem;
+    }
+    .social-photo{
+        width: 8%;
+        height: 8%;
+    }
+    .contact-sub{
+        margin-left: 10rem;
+        margin-right: 10rem;
+    }
+    .line{
+        margin-left: 8rem;
+        margin-right: 8rem;
+    }
+    .intro-sub{
+        top: 26rem;
+        right: 7rem;
+    }
+    .about{
+        margin-left: 8rem;
+        margin-right: 8rem;
+    }
+    .our-team{
+        margin-left: 8rem;
+        margin-right: 8rem;
+    }
+    form{
+        margin-left: 6rem;
+        margin-right: 6rem;
+    }
+    .about-color{
+        height: 13rem;
+        padding-top: 1.5rem;
+    }
+}
+@media (min-width: 1200px){
+    .investors{
+        margin: 4rem 6rem;
+        line-height: 32px;
+    }
+    .careers{
+        margin: 4rem 6rem;
+        line-height: 32px;
+    }
+    .investor-button{
+        padding: 1rem 4rem;
+    }
+    .social-photo{
+        width: 6%;
+        height: 6%;
+    }
+    .about-color{
+        height: 15rem;
+        padding-top: 2rem;
+    }
+    .intro-sub{
+        top: 32rem;
+        right: 15rem;
+    }
+    .cam{
+        margin-left: 6rem;
+        margin-right: 6rem;
+    }
+    .contact-form{
+        margin-left: 6rem;
+        margin-right: 6rem;
+    }
+    h3{
+        font-size: 3.5rem;
+        margin-left: 12rem;
+        margin-right: 12rem;
+    }
+    .intro-button{
+        padding: 1rem 4.5rem;
+        margin-right: 1rem;
+        margin-left: 3rem;
+        font-size: 1.2rem;
+    }
+    input[type=submit]{
+        padding: .5rem 1.2rem
+    }
+    input[type=reset]{
+        padding: .5rem 1.2rem
+    }
+    .footer-img{
+        margin-top: 3rem;
+    }
+}
